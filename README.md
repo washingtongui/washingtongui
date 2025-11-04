@@ -23,4 +23,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" style="margin: 10px;" />
 </div>
-[Snake_animation](https://github.com/washingtongui/washingtongui/blob/output/github-contribution-grid-snake.svg)
