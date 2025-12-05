@@ -6,10 +6,7 @@
 - 🌐 Desenvolvo sites responsivos com HTML, CSS, JavaScript e Bootstrap
 - 👨‍💻 Busco colaborar em projetos de desenvolvimento web e banco de dados
 - ⚡ Curiosidade: Gosto de transformar ideias em soluções digitais funcionais
-<a href="https://github.com/washingtongui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtongui&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtongui&layout=compact&langs_count=8&theme=dark" />
-</a>
+
 <div align="center">
   <!-- Linguagens e tecnologias -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" style="margin: 10px;" />
