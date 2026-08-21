@@ -1,9 +1,8 @@
 ## Olá, meu nome é Washington Guilherme 👋
 
 - 🎓 Estudante de Engenharia de Software na Anhanguera
-- 📊 Concluí o curso de Modelagem de Dados no SENAC
-- 💻 Finalizando o curso de Desenvolvimento Web Fullstack
-- 🌐 Desenvolvo sites responsivos com HTML, CSS, JavaScript e Bootstrap
+- 📊 Concluindo Técnico de Informática SENAC
+- 💻 Dev Java
 - 👨‍💻 Busco colaborar em projetos de desenvolvimento web e banco de dados
 - ⚡ Curiosidade: Gosto de transformar ideias em soluções digitais funcionais
 
